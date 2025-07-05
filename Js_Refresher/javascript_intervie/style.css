@@ -1,0 +1,22 @@
+.hello{
+  color: blue;
+}
+
+#parent{
+  border: 2px solid red;
+  padding: 70px;
+  width: 600px;
+
+}
+#form{
+  border: 2px solid green;
+  padding: 70px;
+  width: 200px;
+
+}
+#button{
+  padding: 20px;
+  background-color: bisque;
+  border-radius: 20px;
+  
+}
