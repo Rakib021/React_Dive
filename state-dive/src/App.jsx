@@ -1,50 +1,43 @@
 import { useState } from 'react';
 
-const initialItems = [
-  { title: 'pretzels', id: 0 },
-  { title: 'crispy seaweed', id: 1 },
-  { title: 'granola bar', id: 2 },
-];
-
-export default function Menu() {
-  const [items, setItems] = useState(initialItems);
-  const [selectedItem, setSelectedItem] = useState(
-    items[0]
-  );
-
-  function handleItemChange(id, e) {
-    setItems(items.map(item => {
-      if (item.id === id) {
-        return {
-          ...item,
-          title: e.target.value,
-        };
-      } else {
-        return item;
+export default function Scoreboard() {
+  const [isPlayerA, setIsPlayerA] = useState(true);
+  return (
+    <div>
+      {isPlayerA &&
+        <Counter person="Taylor" />
       }
-    }));
+      {!isPlayerA &&
+        <Counter person="Sarah" />
+      }
+      <button onClick={() => {
+        setIsPlayerA(!isPlayerA);
+      }}>
+        Next player!
+      </button>
+    </div>
+  );
+}
+
+function Counter({ person }) {
+  const [score, setScore] = useState(0);
+  const [hover, setHover] = useState(false);
+
+  let className = 'counter';
+  if (hover) {
+    className += ' hover';
   }
 
   return (
-    <>
-      <h2>What's your travel snack?</h2> 
-      <ul>
-        {items.map((item, index) => (
-          <li key={item.id}>
-            <input
-              value={item.title}
-              onChange={e => {
-                handleItemChange(item.id, e)
-              }}
-            />
-            {' '}
-            <button onClick={() => {
-              setSelectedItem(item);
-            }}>Choose</button>
-          </li>
-        ))}
-      </ul>
-      <p>You picked {selectedItem.title}.</p>
-    </>
+    <div
+      className={className}
+      onPointerEnter={() => setHover(true)}
+      onPointerLeave={() => setHover(false)}
+    >
+      <h1>{person}'s score: {score}</h1>
+      <button onClick={() => setScore(score + 1)}>
+        Add one
+      </button>
+    </div>
   );
 }
