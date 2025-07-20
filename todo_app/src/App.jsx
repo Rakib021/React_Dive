@@ -7,7 +7,7 @@ export default function App() {
 
   const getNextId = (data) => {
         const maxId = data.reduce((prev, current) =>
-            prev && prev > current.id ? prev : current.id, 0
+            prev && prev.id > current.id ? prev.id : current.id
         );
 
         return maxId + 1;
