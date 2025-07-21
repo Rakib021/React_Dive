@@ -62,7 +62,7 @@ function handleSelectionMovie(movie){
                <Rating value={movie.rating} />
               </div>
               <a
-                className="bg-primary rounded-lg py-2 px-5 flex items-center justify-center gap-2 text-[#171923] font-semibold text-sm"
+                className="bg-green-500 rounded-lg py-2 px-5 flex items-center justify-center gap-2 text-[#171923] font-semibold text-sm"
                 href="#"
                 onClick={(e)=>handleAddToCart(e,movie)}
               >
