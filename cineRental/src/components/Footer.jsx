@@ -1,5 +1,4 @@
 
-
 export default function Footer() {
   return (
     <footer className="py-6 md:py-8 mt-8">

@@ -8,7 +8,8 @@ import { themeContext } from "../Context";
 export default function Page() {
   const { darkMode } = useContext(themeContext);
   return (
-    <div className={`h-full w-full ${darkMode? "bg-white dark:bg-black" : ""}`}>
+   <div className={`h-full w-full ${darkMode ? "bg-white dark:bg-black" : "bg-white"}`}>
+
       <Header />
 
       <main>

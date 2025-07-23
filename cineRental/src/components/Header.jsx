@@ -37,7 +37,7 @@ export default function Header() {
               <a
                 className="bg-primary/20 dark:bg-primary/[7%] rounded-lg backdrop-blur-[2px] p-1 inline-block"
                 href="#"
-                onClick={() => setDarkMode(darkMode => ! darkMode)}
+                onClick={() => setDarkMode(darkMode => !darkMode)}
               >
                 <img
                   src={darkMode ? Sun : Moon}
