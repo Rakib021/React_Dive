@@ -1,12 +1,11 @@
-import CatFriends from "./components/CatFriends";
-import Counter from "./components/Counter";
-import Focus from "./components/Focus";
-
+import React from 'react'
+import Map from './components/Map'
+import Comments from './components/Comments'
 
 export default function App() {
   return (
     <div>
-      <Focus />
+      <Comments />
     </div>
   )
 }
