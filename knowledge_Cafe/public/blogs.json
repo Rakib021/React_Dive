@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://picsum.photos/seed/cover1/600/400",
+    "title": "Exploring the Depths of AI Creativity",
+    "author": "Liam Carter",
+    "author_img": "https://randomuser.me/api/portraits/men/45.jpg",
+    "posted_date": "2025-07-28",
+    "reading_time": 5,
+    "hashtags": ["#AI", "#Creativity", "#Innovation"]
+  },
+  {
+    "id": 2,
+    "cover": "https://picsum.photos/seed/cover2/600/400",
+    "title": "The Future of Web Development in 2030",
+    "author": "Sophia Williams",
+    "author_img": "https://randomuser.me/api/portraits/women/32.jpg",
+    "posted_date": "2025-07-27",
+    "reading_time": 8 ,
+    "hashtags": ["#WebDev", "#FutureTech", "#JavaScript"]
+  },
+  {
+    "id": 3,
+    "cover": "https://picsum.photos/seed/cover3/600/400",
+    "title": "Mastering Productivity: Habits that Stick",
+    "author": "James Patel",
+    "author_img": "https://randomuser.me/api/portraits/men/21.jpg",
+    "posted_date": "2025-07-25",
+    "reading_time": 5,
+    "hashtags": ["#Productivity", "#Habits", "#SelfHelp"]
+  },
+  {
+    "id": 4,
+    "cover": "https://picsum.photos/seed/cover4/600/400",
+    "title": "Designing with Empathy: UX in Mind",
+    "author": "Emily Chen",
+    "author_img": "https://randomuser.me/api/portraits/women/58.jpg",
+    "posted_date": "2025-07-22",
+    "reading_time": 7,
+    "hashtags": ["#UXDesign", "#Empathy", "#UserExperience"]
+  },
+  {
+    "id": "5",
+    "cover": "https://picsum.photos/seed/cover5/600/400",
+    "title": "Breaking Down Machine Learning Models",
+    "author": "Arjun Mehta",
+    "author_img": "https://randomuser.me/api/portraits/men/75.jpg",
+    "posted_date": "2025-07-20",
+    "reading_time":9 ,
+    "hashtags": ["#MachineLearning", "#AI", "#DataScience"]
+  }
+]
