@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+ @layer components {
+      .container {
+        @apply  px-8;
+      }
+      .colors{
+        body: #1D1E28;
+        light :#fff;
+      }
+    }
+
+  
