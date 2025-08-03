@@ -7,6 +7,7 @@ import { weatherContext } from '../../contexts'
 
 export default function WeatherBoard() {
 	const {weatherData,loading} = useContext(weatherContext);
+	console.log("jodi pai taile tikh ache :",weatherData);
 
 
   return (
