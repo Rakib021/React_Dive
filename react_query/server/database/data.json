@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "rating": 4.69,
+      "thumbnail": "https://bd.mobilekishop.net/products/apple-iphone-9-default.jpg"
+    },
+    {
+      "id": "2",
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "rating": 4.44,
+      "thumbnail": "https://smartteleworld.com.bd/wp-content/uploads/2025/03/refurb-iphone-xs-gold.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "rating": 4.09,
+      "thumbnail": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S24-FE-5G-Gray-9707.jpg"
+    },
+    {
+      "id": "4",
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "rating": 4.3,
+      "thumbnail": "https://www.mobiledokan.com/media/Oppo%20F19.png.webp"
+    },
+    {
+      "id": "5",
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "rating": 4.09,
+      "thumbnail": "https://www.mobiledokan.com/media/huawei-p30-official-breathings-crystal-image.webp"
+    },
+    {
+      "id": "6",
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "rating": 4.57,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs637O9WZsrSLnChi8_M1qzNVKMsgwmMksGQ&s"
+    },
+    {
+      "id": "7",
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "rating": 4.25,
+      "thumbnail": "https://brotherselectronicsbd.com/image/cache/catalog/demo/product/Samsung/Book%20S/Book-S-1-800x800.png"
+    },
+    {
+      "id": "8",
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 1499,
+      "rating": 4.43,
+      "thumbnail": "https://m.media-amazon.com/images/I/711jgF2LHPL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "rating": 4.54,
+      "thumbnail": "https://global.pro.infinixmobility.com/media/wysiwyg/inbook_inbookx2_base1.png"
+    },
+    {
+      "id": "10",
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "rating": 4.43,
+      "thumbnail": "https://i5.walmartimages.com/seo/HP-Pavilion-15-6-FHD-Gaming-Laptop-Intel-Core-i5-10300H-8GB-RAM-NVIDIA-GeForce-GTX-1650-4GB-250GB-SSD-Windows-10-Home-Black-15-dk1056wm_8b269d16-6343-40c0-832f-e4d394ad8b75.9a1d5beb1ed0c4b7815d8657536428f9.jpeg"
+    },
+    {
+      "id": "11",
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "price": 13,
+      "rating": 4.26,
+      "thumbnail": "https://img.drz.lazcdn.com/g/kf/Sa72c094856d3433b9cbbca5b57714f77C.jpg_720x720q80.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Brown Perfume",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "price": 40,
+      "rating": 4,
+      "thumbnail": "https://perfume-bd.com/wp-content/uploads/2021/04/999999999-1.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Fog Scent Xpressio Perfume",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "price": 13,
+      "rating": 4.59,
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71UpBnVYf9L._AC_UL495_SR435,495_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Non-Alcoholic Concentrated Perfume Oil",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "price": 120,
+      "rating": 4.21,
+      "thumbnail": "https://img.drz.lazcdn.com/g/kf/Sa72c094856d3433b9cbbca5b57714f77C.jpg_720x720q80.jpg"
+    },
+    {
+      "id": "b37cc903-fb0f-43e1-a589-4618984e15f9",
+      "title": "pixel 7",
+      "description": "chone which is good use experience",
+      "price": 20000,
+      "rating": 5,
+      "thumbnail": "https://adminapi.applegadgetsbd.com/storage/media/large/Pixel-7-Pro-Snow-8255.jpg"
+    },
+    {
+      "id": "ddfebff1-9b59-4723-8ab2-3acf7f82d3e6",
+      "title": "QCY earphone",
+      "description": "A beeter quality of Earphone",
+      "price": 1799,
+      "rating": 5,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpejkXeduQeaxiEP_1wfFQbn-udmIVLn59qQ&s"
+    },
+    {
+      "id": "d72f1935-9088-4a8b-a1f0-205cd5edc51e",
+      "title": "pixel 8",
+      "description": "shjahsjha",
+      "price": 3,
+      "rating": 5,
+      "thumbnail": "sw"
+    },
+    {
+      "id": "7f62290b-34a6-4015-b2e5-5c15cf394dd2",
+      "title": "test",
+      "description": "test des",
+      "price": 5,
+      "rating": 5,
+      "thumbnail": "https://adminapi.applegadgetsbd.com/storage/media/large/Pixel-7-Pro-Snow-8255.jpg"
+    }
+  ]
+}
