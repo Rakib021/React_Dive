@@ -13,7 +13,8 @@ export default function KeyFrame() {
       scale : [1,1,2,1,2],
 
     }}
-     transition  =  {{duration :2}}
+     transition  =  {{duration :2}},
+     exit ={{}}
     />
 
   
